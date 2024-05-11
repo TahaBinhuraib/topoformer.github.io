@@ -1,7 +1,15 @@
 body {
   font-family: 'Noto Sans', sans-serif;
 }
+.header-logo {
+  margin-top: 10px; /* Adjust as needed */
+  margin-bottom: 10px; /* Adjust as needed */
+}
 
+.header-logo img {
+  width: 100px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
 
 .footer .icon-link {
     font-size: 25px;
